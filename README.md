@@ -1,6 +1,6 @@
 ### Olá meu nome é Wesley  👋 
 - 🔭 Em busca do primeiro emprego na área de T.I 
-- 🌱 Eestou cursando técnico em Informatica 
+- 🌱 Estou cursando técnico em Informatica 
 - 📫 Me contate pelo E-mail: wesleybrazdeoliveira2@gmail.com
 
 <!--
